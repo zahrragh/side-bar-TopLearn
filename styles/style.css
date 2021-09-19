@@ -43,7 +43,16 @@ section p {
     object-fit: cover;
     width: 100%;
 }
-
+#sidebar{
+    background-color: darkblue;
+    width: 20%;
+    height: 100vh;
+}
 ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+}
+ul li{
     
 }
